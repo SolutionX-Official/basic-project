@@ -1,0 +1,25 @@
+# Node.js modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Build output
+public/css/styles.build.css
+
+# OS-specific files
+.DS_Store
+
+# IDE-specific files
+.vscode/
+
+# npm package lock
+package-lock.json
+
+# PostCSS cache
+postcss-cache/
